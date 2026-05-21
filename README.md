@@ -1,10 +1,10 @@
-# 🏠 House Prediction System
+#  House Prediction System
 
 A Machine Learning project that predicts house prices based on various property features such as location, number of rooms, area, population, and income statistics.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The goal of this project is to build an intelligent house price prediction system using regression algorithms. By analyzing housing datasets and identifying important patterns, the model can estimate property prices with good accuracy.
 
@@ -18,7 +18,7 @@ This project covers:
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Predicts house prices using Machine Learning
 - Data visualization for better insights
@@ -28,7 +28,7 @@ This project covers:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages & Tools
 
@@ -45,7 +45,7 @@ This project covers:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 House-Prediction-System/
@@ -60,7 +60,7 @@ House-Prediction-System/
 
 ---
 
-## 📊 Machine Learning Workflow
+##  Machine Learning Workflow
 
 ### 1. Data Collection
 
@@ -100,7 +100,7 @@ Collected housing-related datasets containing features such as:
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -137,7 +137,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Run the Project
+##  Run the Project
 
 ### Using Python Script
 
@@ -153,7 +153,7 @@ jupyter notebook
 
 ---
 
-## 📈 Sample Output
+##  Sample Output
 
 ```bash
 Input:
@@ -167,7 +167,7 @@ $245,000
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Deploy using Flask or Streamlit
 - Add interactive UI
@@ -177,7 +177,7 @@ $245,000
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome.
 
@@ -189,13 +189,13 @@ Contributions are welcome.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Mohamed Javed Khan**
 
@@ -204,5 +204,5 @@ This project is licensed under the MIT License.
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
+If you found this project useful, consider giving it a star!
 ````
